@@ -1,0 +1,10 @@
+  {
+    'snippet': {
+      'playlistId': '{PLAYLIST_ID}', 
+      'resourceId': {
+          'kind': 'youtube#video',
+          'videoId': '{VIDEO_ID}'
+        }
+     'position': 0
+      }
+   }
